@@ -15,4 +15,5 @@ section{
  section .contonaire .input {
      margin: 20px;
      box-shadow: 5px 5px 12px rgb(0, 0, 0, 0.2);
+     max-width: 50px;
 }
