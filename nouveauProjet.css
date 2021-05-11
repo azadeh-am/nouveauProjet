@@ -1,0 +1,18 @@
+body{
+    background-color:rgb(219, 213, 224);
+}
+section{
+    border:2px solid rgb(27, 1, 27);
+   text-align: center;
+   flex-direction:row;
+    justify-content: center;
+    box-shadow: 5px 5px 12px rgb(0, 0, 0, 0.2);
+    border-radius: 20px;
+    margin: 20px;
+    padding: 10px;
+   
+}
+ section .contonaire .input {
+     margin: 20px;
+     box-shadow: 5px 5px 12px rgb(0, 0, 0, 0.2);
+}
